@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Student of Information Technology at Wrocław University of Science and Technology.
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Mobile app development 
+- Machine learning 
+- Self development
+- Air pollution problem
